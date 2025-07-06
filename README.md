@@ -36,3 +36,10 @@ Host github.com-user2
 git clone git@github.com-user1:user1/your-repo-name.git your-repo-name_user1
 ```
 
+- add the Correct Key to the Agent
+
+```js
+ssh-add ~/.ssh/id_rsa_your_user
+```
+
+
